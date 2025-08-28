@@ -1,4 +1,9 @@
-## Hi there 👋
+
+# Hi, I'm Khushi Thakur 👋
+- 🎓 B.Tech CSE student (3rd year)
+- 🌱 Learning web development (HTML, CSS, JavaScript, Bootstrap)
+- 💻 Interested in frontend development
+- 📫 Reach me: thakurkhush67@gmail.com
 
 <!--
 **thakurkhush67/thakurkhush67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
